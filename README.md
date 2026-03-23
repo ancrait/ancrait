@@ -3,7 +3,7 @@ I am a dedicated Java Developer with a strong focus on building robust microserv
 
 
 ## 🌐 Socials:
-Telegram: https://t.me/andriyk0s
+Telegram: https://t.me/andriyk0s<br>
 Email: xdxddclash@gmail.com
 
 # 💻 Tech Stack:
