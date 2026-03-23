@@ -9,7 +9,7 @@ Email: xdxddclash@gmail.com
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mongodb,redis,kafka,docker,maven,git,github,cs,arduino" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mongodb,redis,kafka,docker,maven,git,github," />
   </a>
 </p>
 
