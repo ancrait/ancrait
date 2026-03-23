@@ -2,9 +2,6 @@
 I am a dedicated Java Developer with a strong focus on building robust microservices and mastering the Spring Boot framework. My expertise lies in creating scalable backend systems, which is demonstrated in my personal projects like a comprehensive Anti-Fraud System and an E-commerce application. I have a deep interest in modern architectural patterns, distributed messaging with Apache Kafka, and high-performance data storage using PostgreSQL and Redis.
 
 
-## 🌐 Socials:
-Telegram: https://t.me/andriyk0s<br>
-Email: xdxddclash@gmail.com
 
 # 💻 Tech Stack:
 <p align="center">
