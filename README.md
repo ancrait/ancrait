@@ -6,7 +6,7 @@ I am a dedicated Java Developer with a strong focus on building robust microserv
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mongodb,redis,kafka,docker,maven,git" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mongodb,redis,kafka,docker,maven,git,github" />
   </a>
 </p>
 
